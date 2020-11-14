@@ -1,0 +1,11 @@
+body {
+    background-image: url('./images/boom.jpg');
+    background-size:  cover; 
+    background-position: center;
+}
+
+.timer {
+    text-align: center;
+    font-size: 34px;
+    color: black;
+    }
